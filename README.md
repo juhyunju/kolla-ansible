@@ -199,4 +199,6 @@ nova_compute_virt_type: "qemu"
 ```
 ## 9. OpenStack 대쉬보드 접속
 kolla_external_vip_address 에서 설정한 IP 주소로 접속하면 생성된 오픈스택 화면을 볼 수 있다.
+![1](https://user-images.githubusercontent.com/73158866/150298449-3d80e07a-bc1a-48c2-a65c-1e22cd9ebed8.png)
+
 
